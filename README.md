@@ -1,5 +1,7 @@
 # ATS Resume Scanner
 
+![FrontEnd Dashboard](https://github.com/user-attachments/assets/f1a01809-ffac-480e-957d-d297e74b464c)
+
 A full-stack AI-driven ATS Resume Scanning Analysis Platform using Python, Flask, and NLP techniques to simulate intelligent candidate screening. Developed powerful information extraction pipelines to identify skills, quantify experience, and compute semantic match scores using custom scoring algorithms and domain-specific embeddings. Integrated dynamic Tableau dashboards and PDF reporting to visualize candidate-job alignment. Implemented advanced features like dark mode UI, skill tag rendering, and intelligent deduplication logic. 
 
 ### Prerequisites
@@ -26,6 +28,13 @@ pip install dateparser
 pip install reportlab
 pip install Werkzeug
 ```
+
+## Tableau Dashboard Preview
+![Tableau Dashboard](https://github.com/user-attachments/assets/82fa7682-8067-451f-a88c-e836bf67f386)
+
+## Tableau Dashboard
+-[Link to Dashboard](https://public.tableau.com/app/profile/ashish.ashish3477/viz/Book1_17455698844530/Dashboard1)
+
 
 ## Future Work
 1. Job Recommendation System 
