@@ -27,6 +27,14 @@ pip install reportlab
 pip install Werkzeug
 ```
 
+## Features
+- Skill & Experience extraction
+- Match scoring using TF-IDF & experience logic
+- Tag-style skill visualization
+- Dark mode UI toggle
+- Tableau dashboard integration
+- Downloadable ATS PDF Report 
+
 ## Resume Score Calculation
 ![Summary of ATS scoring calculation](https://github.com/user-attachments/assets/8209c3f0-c526-4f94-b37c-f5402520afbf)
 
