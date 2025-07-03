@@ -27,6 +27,40 @@ pip install reportlab
 pip install Werkzeug
 ```
 
+## Database Schema (Column Descriptions)
+**1.	id:**
+A unique identifier assigned to each entry in the database, representing an individual resume scanned by the ATS system.
+
+**2.	name** The resumes file name of the candidate whose resume has been scanned by the system.
+
+**3.	email**
+The candidate’s email address, extracted automatically from the resume document.
+
+**4.	phone**
+The candidate’s phone number, parsed and extracted from the resume content.
+
+**5.	skills**
+A collection of skills identified in the resume, as extracted by the ATS scanner
+
+**6.	score**
+The ATS matching score indicating how closely the candidate’s resume aligns with a given job description. 
+
+**7.	experience_level**
+The candidate’s experience classification, derived from experience_years:  
+Senior: ≥ 7 years  
+Mid-level: ≥ 3 and < 7 years  
+Junior: > 0 and < 3 years  
+
+**8.	report**
+The full, unstructured text extracted from the candidate’s resume.
+
+**9.	experience_years**
+The total number of professional experience years of candidate identified from the resume content.
+
+**10.	skills_matched**
+Represents the count of skills from the candidate’s resume that matched the required skills in the job description.
+
+
 ## Features
 - Resume Parsing and Keyword extraction 
 - Skill & Experience extraction
