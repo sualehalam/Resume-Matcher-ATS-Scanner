@@ -30,8 +30,10 @@ pip install Werkzeug
 ```
 
 ## Tableau Dashboard Preview
+[**Link to Live Tableau Dashboard**](https://public.tableau.com/app/profile/ashish.ashish3477/viz/Book1_17455698844530/Dashboard1)
+
+------------------------
 ![Tableau Dashboard](https://github.com/user-attachments/assets/82fa7682-8067-451f-a88c-e836bf67f386)
-[Link to Dashboard](https://public.tableau.com/app/profile/ashish.ashish3477/viz/Book1_17455698844530/Dashboard1)
 
 
 ## Preview
