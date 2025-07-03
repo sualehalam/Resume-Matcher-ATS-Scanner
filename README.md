@@ -54,7 +54,7 @@ pip install Werkzeug
 
 ## Future Work
 1. Job Recommendation System 
-2. Use Pretrained LLM Embeddings (Optional) Sentence-Transformers (BERT-based)
+2. Use Pretrained LLM Embeddings Sentence-Transformers (BERT-based)
 3. Integrate AI (GPT-4/BERT)
 4. Add Multi-Resume Support
 5. Soft Skill Detection
