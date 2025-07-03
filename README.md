@@ -13,8 +13,6 @@ A full-stack AI-driven ATS Resume Scanning Analysis Platform using Python, Flask
 - [ReportLab](https://pypi.org/project/reportlab/)
 - [Werkzeug](https://pypi.org/project/Werkzeug/)
 
-
-
 ### Installing
 
 Run the following commands on command prompt (as administrator) .
@@ -28,6 +26,11 @@ pip install dateparser
 pip install reportlab
 pip install Werkzeug
 ```
+
+## Resume Score Calculation
+![Summary of ATS scoring calculation](https://github.com/user-attachments/assets/8209c3f0-c526-4f94-b37c-f5402520afbf)
+
+
 
 ## Tableau Dashboard Preview
 [**Live Tableau Dashboard**](https://public.tableau.com/app/profile/ashish.ashish3477/viz/Book1_17455698844530/Dashboard1)
