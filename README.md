@@ -61,7 +61,7 @@ The total number of professional experience years of candidate identified from t
 Represents the count of skills from the candidate’s resume that matched the required skills in the job description.
 
 
-## Features
+## Features of ATS Scanner
 - Resume Parsing and Keyword extraction 
 - Skill & Experience extraction
 - Match Scoring Calculation
