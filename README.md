@@ -1,4 +1,4 @@
-# ATS Resume Scanner
+# Applicant Tracking System (ATS) Resume Scanner
 
 ![FrontEnd Dashboard](https://github.com/user-attachments/assets/f1a01809-ffac-480e-957d-d297e74b464c)
 
