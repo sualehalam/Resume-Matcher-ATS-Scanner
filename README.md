@@ -1,8 +1,10 @@
 # Applicant Tracking System (ATS) Resume Scanner
-
 ![FrontEnd Dashboard](https://github.com/user-attachments/assets/f1a01809-ffac-480e-957d-d297e74b464c)
 
-A full-stack AI-driven ATS Resume Scanning Analysis Platform using Python, Flask, and NLP techniques to simulate intelligent candidate screening. Developed powerful information extraction pipelines to identify skills, quantify experience, and compute semantic match scores using custom scoring algorithms and domain-specific embeddings. Integrated dynamic Tableau dashboards and PDF reporting to visualize candidate-job alignment. Implemented advanced features like dark mode UI, skill tag rendering, and intelligent deduplication logic. 
+## Introduction
+A full-stack AI-driven ATS Resume Scanning Analysis Platform using Python, Flask, and NLP techniques to simulate intelligent candidate screening. Developed powerful information extraction pipelines to identify skills, quantify experience, and compute semantic match scores using custom scoring algorithms. Integrated dynamic Tableau dashboards and PDF reporting to visualize candidate-job alignment. Implemented advanced features like dark mode UI, skill tag rendering, and intelligent resume scoring logic. 
+
+
 
 ### Prerequisites
 - [Pandas](http://pandas.pydata.org)
