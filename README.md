@@ -85,6 +85,28 @@ Represents the count of skills from the candidate’s resume that matched the re
 ## Results of Resume ATS Scanner
 ![Resume Report](https://github.com/user-attachments/assets/483d0c62-9ba3-4b45-8990-391ef8e140e2)
 
+## Statistical Results Summary
+
+### Multiple Linear Regression Summary
+
+**AIC** Value of Final Model: **-152.3** The lower the AIC value is the better is the models performance.  
+
+**$R^2$= 46.5%**
+
+**$R^2_{adj}$ = 44.58%**
+
+An R-squared of **44.58%** means that ~ **45%** of the variation in the outcome variable can be attributed to the model’s predictor(s).
+
+### Logistic Regression Summary
+
+**AUC (0.79):** AUC (Area Under the ROC Curve) of 0.79 indicates strong and acceptable performance for a machine learning classification model. 
+
+**Overall Accuracy (70.2%):** Decent — the model is correct ~70% of the time.
+
+**Sensitivity (45.5%):** This is low and problematic as it’s only correctly identifying 45.5% of the actual 1s (positives) that are hired for the job.
+
+**Specificity (85.7%):** Pretty good as it’s doing well at predicting 0s roughly 85% of the time.
+
 
 ## Final Thoughts and Recommendations
 
