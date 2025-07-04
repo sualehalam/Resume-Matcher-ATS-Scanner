@@ -86,6 +86,13 @@ Represents the count of skills from the candidate’s resume that matched the re
 ![Resume Report](https://github.com/user-attachments/assets/483d0c62-9ba3-4b45-8990-391ef8e140e2)
 
 
+## Final Thoughts and Recommendations
+
+**Feature Engineering:** Since resume data can be sparse, more sophisticated feature engineering might help improve performance. Consider extracting more meaningful features from the text (e.g. sentiment analysis) or exploring the potential impact of other factors such as education level or job title.
+
+**Model Comparison:** While the linear models and logistic regression perform well, it might be worth comparing the results with machine learning models like Decision Trees, Random Forests, or Gradient Boosting (e.g., XGBoost) to see if they offer a significant improvement in predictive accuracy, especially for complex datasets like resumes.
+
+
 ## Future Work
 1. Job Recommendation System 
 2. Use Pretrained LLM Embeddings Sentence-Transformers (BERT-based)
